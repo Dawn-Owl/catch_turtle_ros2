@@ -42,7 +42,7 @@ Turtles will spawn and be caught automatically
 ------------------------------------------------------------------------
 
 📂 Project Structure
-
+```bash
 catch_turtle_ros2/
 ├── src/
 │   ├── turtlesim_catch_them_all/     # Main logic (spawner, controller)
@@ -53,6 +53,7 @@ catch_turtle_ros2/
 │   └── catch_turtles.launch.py       # Launch all nodes
 ├── README.md
 ├── .gitignore
+```
 
 ## 🎥 Demo
 
