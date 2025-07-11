@@ -31,7 +31,7 @@ git clone git@github.com:Dawn-Owl/catch_turtle_ros2.git
 cd ..
 colcon build
 source install/setup.bash
-'''
+```
 
 2. Launch the system:
 ros2 launch turtlesim_catch_them_all catch_turtles.launch.py
