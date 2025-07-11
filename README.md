@@ -55,5 +55,4 @@ catch_turtle_ros2/
 
 ## 🎥 Demo
 
-<img src="./images/catch_turtle.gif" width="600"/>
-
+![Demo](./images/catch_turtle.gif)
