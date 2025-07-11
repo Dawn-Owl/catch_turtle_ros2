@@ -1,0 +1,12 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/home/hyosub/ros2_ws/install/my_py_pkg/lib/python3.12/site-packages",
+        "/home/hyosub/ros2_ws/install/my_robot_interfaces/lib/python3.12/site-packages",
+        "/opt/ros/jazzy/lib/python3.12/site-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/home/hyosub/ros2_ws/install/my_py_pkg/lib/python3.12/site-packages",
+        "/home/hyosub/ros2_ws/install/my_robot_interfaces/lib/python3.12/site-packages",
+        "/opt/ros/jazzy/lib/python3.12/site-packages"
+    ]
+}
